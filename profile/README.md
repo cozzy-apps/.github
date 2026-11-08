@@ -1,51 +1,82 @@
-# <img src="./assets/cozzysim-mark.png" alt="CozzySIM logo" width="44" /> CozzySIM
+<div align="center">
+  <img src="./assets/cozzysim-mark.png" alt="CozzySIM logo" width="76" />
 
-**Your next destination. Connected.**
+  # CozzySIM
 
-Discover, buy and manage travel eSIMs on the web and in Telegram.
+  **Your next destination. Connected.**
 
-[Explore eSIMs](https://cozzysim.com/) · [Telegram Mini App](https://t.me/cozzysim_bot) · [Partnerships](#lets-connect-travel--connectivity)
+  Discover, purchase, and manage travel eSIMs — on the web and in Telegram.
 
-![The CozzySIM storefront's flight panorama: an aircraft wing above the clouds at sunset, in deep navy and violet.](./assets/hero-flight-desktop-v3.webp)
+  [**Explore eSIMs**](https://cozzysim.com/) &nbsp;·&nbsp; [**Telegram Mini App**](https://t.me/cozzysim_bot) &nbsp;·&nbsp; [**Partner with us**](#partnerships)
+</div>
 
-## About CozzySIM
+<br />
 
-CozzySIM brings travel connectivity into one digital experience: find a destination, choose a data plan and keep your eSIM essentials close at hand.
+![Airplane wing above violet sunset clouds — the CozzySIM travel experience](./assets/hero-flight-desktop-v3.webp)
 
-Built for holidays, business trips and longer stays, our platform helps travelers plan their mobile data without swapping physical SIM cards.
+<br />
 
-## The CozzySIM Experience
+## Connected wherever your journey takes you
 
-**Discover a plan.** Search destinations and compare available plans by data allowance, validity, price and network coverage.
+CozzySIM brings travel connectivity into one simple experience. Explore destinations, compare data plans, and keep your eSIM essentials in one place — without swapping a physical SIM card.
 
-**Purchase and prepare.** Buy a plan, resume an unfinished checkout and access installation QR codes, with setup guides for compatible iOS and Android devices.
+Whether you're planning a holiday, traveling for business, or staying abroad a little longer, we're building an easier way to get connected.
 
-**Manage your travel data.** Keep purchased eSIMs, orders, wallet balance, transactions and account notifications together.
+## The CozzySIM experience
 
-**Use Telegram and get support.** Open the Mini App through our companion bot, with a help center, in-app chat and email for assistance.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Explore destinations</h3>
+      Browse destinations and compare available eSIM plans by data allowance, validity, price, and coverage.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📲 Purchase &amp; set up</h3>
+      Buy a plan, return to an unfinished checkout, and access installation QR codes and setup guidance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ Manage your eSIMs</h3>
+      Find your purchased eSIMs, orders, wallet balance, transactions, and notifications together.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Stay supported</h3>
+      Access CozzySIM through Telegram and get help from our support resources and in-app chat.
+    </td>
+  </tr>
+</table>
 
-## Built for Travel
+<a id="partnerships"></a>
 
-From checking a route to sending a message home, mobile data is part of the trip. CozzySIM helps you arrange it digitally, without adding a physical SIM card to your travel checklist.
+## Travel better, together
 
-## Let's Connect Travel & Connectivity
+**Partnership opportunities for travel agencies, tour operators, and tourism businesses.**
 
-We welcome conversations with **travel agencies, tour operators and tourism businesses** interested in making connectivity part of the experience they offer their customers.
+We'd love to explore how CozzySIM can become part of the travel experience you offer your customers. From individual trips to group travel, let's talk about ways to make mobile connectivity easier for travelers.
 
-If you see an opportunity to help your travelers find mobile data for their destinations, let's explore where CozzySIM could fit.
+**[Start a partnership conversation](mailto:support@cozzysim.com?subject=CozzySIM%20travel%20partnership)** &nbsp;·&nbsp; [Visit our website](https://cozzysim.com/)
 
-[Start a partnership conversation](mailto:support@cozzysim.com?subject=CozzySIM%20travel%20partnership)
+## Built with care
 
-## Technology
+CozzySIM is developed with **TypeScript, React, Vite, Node.js, NestJS, PostgreSQL, and Redis**, with Telegram Mini App and bot integrations. Socket.IO supports in-app chat.
 
-Built with TypeScript, React, Vite, Node.js, NestJS, PostgreSQL and Redis. Telegram integrations use the Mini Apps SDK and grammY; Socket.IO supports in-app chat.
+> **In development:** A React Native application for iOS and Android.
 
-**In Development** — a React Native application for iOS and Android.
+## Find us online
 
-## Connect With Us
+<p>
+  <a href="https://cozzysim.com/">Website</a> &nbsp;·&nbsp;
+  <a href="https://t.me/cozzysim_bot">Telegram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/cozzysim/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://cozzysim.com/support">Support</a> &nbsp;·&nbsp;
+  <a href="mailto:support@cozzysim.com">Email</a>
+</p>
 
-- [CozzySIM website](https://cozzysim.com/)
-- [Telegram Mini App & bot](https://t.me/cozzysim_bot)
-- [LinkedIn company page](https://www.linkedin.com/company/cozzysim/)
-- [Help center & chat](https://cozzysim.com/support)
-- [support@cozzysim.com](mailto:support@cozzysim.com)
+---
+
+<div align="center">
+  <strong>Go further. Stay connected.</strong>
+
+  <sub>© CozzySIM · <a href="https://cozzysim.com/">cozzysim.com</a></sub>
+</div>
